@@ -1,0 +1,95 @@
+C:\Users\alexa\source\repos\Adverts\Adverts\obj\Debug\Adverts.Properties.Resources.resources
+C:\Users\alexa\source\repos\Adverts\Adverts\obj\Debug\Adverts.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\Adverts\Adverts\obj\Debug\Adverts.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\Adverts\Adverts\bin\Debug\Adverts.exe.config
+C:\Users\alexa\source\repos\Adverts\Adverts\bin\Debug\Adverts.exe
+C:\Users\alexa\source\repos\Adverts\Adverts\bin\Debug\Adverts.pdb
+C:\Users\alexa\source\repos\Adverts\Adverts\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\alexa\source\repos\Adverts\Adverts\bin\Debug\System.Security.AccessControl.dll
+C:\Users\alexa\source\repos\Adverts\Adverts\bin\Debug\System.Security.Permissions.dll
+C:\Users\alexa\source\repos\Adverts\Adverts\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\alexa\source\repos\Adverts\Adverts\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\alexa\source\repos\Adverts\Adverts\bin\Debug\System.Security.AccessControl.xml
+C:\Users\alexa\source\repos\Adverts\Adverts\bin\Debug\System.Security.Permissions.xml
+C:\Users\alexa\source\repos\Adverts\Adverts\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\alexa\source\repos\Adverts\Adverts\obj\Debug\Adverts.frmCreateUser.resources
+C:\Users\alexa\source\repos\Adverts\Adverts\obj\Debug\Adverts.frmMain.resources
+C:\Users\alexa\source\repos\Adverts\Adverts\obj\Debug\Adverts.exe
+C:\Users\alexa\source\repos\Adverts\Adverts\obj\Debug\Adverts.pdb
+C:\Users\alexa\source\repos\Adverts\Adverts\bin\Debug\EntityFramework.dll
+C:\Users\alexa\source\repos\Adverts\Adverts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexa\source\repos\Adverts\Adverts\bin\Debug\EntityFramework.xml
+C:\Users\alexa\source\repos\Adverts\Adverts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexa\source\repos\Adverts\Adverts\obj\Debug\Adverts.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\Adverts - kopia (2)\Adverts\bin\Debug\Adverts.exe.config
+C:\Users\alexa\source\repos\Adverts - kopia (2)\Adverts\bin\Debug\Adverts.exe
+C:\Users\alexa\source\repos\Adverts - kopia (2)\Adverts\bin\Debug\Adverts.pdb
+C:\Users\alexa\source\repos\Adverts - kopia (2)\Adverts\bin\Debug\EntityFramework.dll
+C:\Users\alexa\source\repos\Adverts - kopia (2)\Adverts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexa\source\repos\Adverts - kopia (2)\Adverts\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\alexa\source\repos\Adverts - kopia (2)\Adverts\bin\Debug\System.Security.AccessControl.dll
+C:\Users\alexa\source\repos\Adverts - kopia (2)\Adverts\bin\Debug\System.Security.Permissions.dll
+C:\Users\alexa\source\repos\Adverts - kopia (2)\Adverts\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\alexa\source\repos\Adverts - kopia (2)\Adverts\bin\Debug\EntityFramework.xml
+C:\Users\alexa\source\repos\Adverts - kopia (2)\Adverts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexa\source\repos\Adverts - kopia (2)\Adverts\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\alexa\source\repos\Adverts - kopia (2)\Adverts\bin\Debug\System.Security.AccessControl.xml
+C:\Users\alexa\source\repos\Adverts - kopia (2)\Adverts\bin\Debug\System.Security.Permissions.xml
+C:\Users\alexa\source\repos\Adverts - kopia (2)\Adverts\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\alexa\source\repos\Adverts - kopia (2)\Adverts\obj\Debug\Adverts.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\Adverts - kopia (2)\Adverts\obj\Debug\Adverts.frmCreateAd.resources
+C:\Users\alexa\source\repos\Adverts - kopia (2)\Adverts\obj\Debug\Adverts.frmCreateUser.resources
+C:\Users\alexa\source\repos\Adverts - kopia (2)\Adverts\obj\Debug\Adverts.frmMain.resources
+C:\Users\alexa\source\repos\Adverts - kopia (2)\Adverts\obj\Debug\Adverts.Properties.Resources.resources
+C:\Users\alexa\source\repos\Adverts - kopia (2)\Adverts\obj\Debug\Adverts.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\Adverts - kopia (2)\Adverts\obj\Debug\Adverts.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\Adverts - kopia (2)\Adverts\obj\Debug\Adverts.exe
+C:\Users\alexa\source\repos\Adverts - kopia (2)\Adverts\obj\Debug\Adverts.pdb
+C:\Users\alexa\source\repos\Adverts - kopia (2) - kopia\Adverts\bin\Debug\Adverts.exe.config
+C:\Users\alexa\source\repos\Adverts - kopia (2) - kopia\Adverts\bin\Debug\Adverts.exe
+C:\Users\alexa\source\repos\Adverts - kopia (2) - kopia\Adverts\bin\Debug\Adverts.pdb
+C:\Users\alexa\source\repos\Adverts - kopia (2) - kopia\Adverts\bin\Debug\EntityFramework.dll
+C:\Users\alexa\source\repos\Adverts - kopia (2) - kopia\Adverts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexa\source\repos\Adverts - kopia (2) - kopia\Adverts\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\alexa\source\repos\Adverts - kopia (2) - kopia\Adverts\bin\Debug\System.Security.AccessControl.dll
+C:\Users\alexa\source\repos\Adverts - kopia (2) - kopia\Adverts\bin\Debug\System.Security.Permissions.dll
+C:\Users\alexa\source\repos\Adverts - kopia (2) - kopia\Adverts\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\alexa\source\repos\Adverts - kopia (2) - kopia\Adverts\bin\Debug\EntityFramework.xml
+C:\Users\alexa\source\repos\Adverts - kopia (2) - kopia\Adverts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexa\source\repos\Adverts - kopia (2) - kopia\Adverts\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\alexa\source\repos\Adverts - kopia (2) - kopia\Adverts\bin\Debug\System.Security.AccessControl.xml
+C:\Users\alexa\source\repos\Adverts - kopia (2) - kopia\Adverts\bin\Debug\System.Security.Permissions.xml
+C:\Users\alexa\source\repos\Adverts - kopia (2) - kopia\Adverts\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\alexa\source\repos\Adverts - kopia (2) - kopia\Adverts\obj\Debug\Adverts.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\Adverts - kopia (2) - kopia\Adverts\obj\Debug\Adverts.frmCreateUser.resources
+C:\Users\alexa\source\repos\Adverts - kopia (2) - kopia\Adverts\obj\Debug\Adverts.frmMain.resources
+C:\Users\alexa\source\repos\Adverts - kopia (2) - kopia\Adverts\obj\Debug\Adverts.Properties.Resources.resources
+C:\Users\alexa\source\repos\Adverts - kopia (2) - kopia\Adverts\obj\Debug\Adverts.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\Adverts - kopia (2) - kopia\Adverts\obj\Debug\Adverts.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\Adverts - kopia (2) - kopia\Adverts\obj\Debug\Adverts.exe
+C:\Users\alexa\source\repos\Adverts - kopia (2) - kopia\Adverts\obj\Debug\Adverts.pdb
+C:\Users\alexa\Adverts\Adverts\bin\Debug\Adverts.exe.config
+C:\Users\alexa\Adverts\Adverts\bin\Debug\Adverts.exe
+C:\Users\alexa\Adverts\Adverts\bin\Debug\Adverts.pdb
+C:\Users\alexa\Adverts\Adverts\bin\Debug\EntityFramework.dll
+C:\Users\alexa\Adverts\Adverts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexa\Adverts\Adverts\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\alexa\Adverts\Adverts\bin\Debug\System.Security.AccessControl.dll
+C:\Users\alexa\Adverts\Adverts\bin\Debug\System.Security.Permissions.dll
+C:\Users\alexa\Adverts\Adverts\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\alexa\Adverts\Adverts\bin\Debug\EntityFramework.xml
+C:\Users\alexa\Adverts\Adverts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexa\Adverts\Adverts\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\alexa\Adverts\Adverts\bin\Debug\System.Security.AccessControl.xml
+C:\Users\alexa\Adverts\Adverts\bin\Debug\System.Security.Permissions.xml
+C:\Users\alexa\Adverts\Adverts\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\alexa\Adverts\Adverts\obj\Debug\Adverts.csproj.AssemblyReference.cache
+C:\Users\alexa\Adverts\Adverts\obj\Debug\Adverts.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\Adverts\Adverts\obj\Debug\Adverts.frmCreateUser.resources
+C:\Users\alexa\Adverts\Adverts\obj\Debug\Adverts.frmMain.resources
+C:\Users\alexa\Adverts\Adverts\obj\Debug\Adverts.Properties.Resources.resources
+C:\Users\alexa\Adverts\Adverts\obj\Debug\Adverts.csproj.GenerateResource.cache
+C:\Users\alexa\Adverts\Adverts\obj\Debug\Adverts.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Adverts\Adverts\obj\Debug\Adverts.csproj.CopyComplete
+C:\Users\alexa\Adverts\Adverts\obj\Debug\Adverts.exe
+C:\Users\alexa\Adverts\Adverts\obj\Debug\Adverts.pdb
